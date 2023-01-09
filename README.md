@@ -11,3 +11,7 @@ There could be more possible explanation on the increasing trend of observation,
 Recheck plot x and y. (-2p)
 3.5 
 Recheck plot x and y. (-2p)
+
+## Comemnts on HW3 Lixc  (51/50)
+1.2
+Good to consider latitude weight! (+1p)
